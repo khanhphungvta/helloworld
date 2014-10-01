@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("Test 7 from remote.");
 		System.out.println("Test 8 from remote.");
 		System.out.println("Test 9 from remote and prepair test 10 in local.");
+		System.out.println("Test 11 from remote and prepair test 12 in local.");
 		System.out.println("Added from remote");
 
 	}
