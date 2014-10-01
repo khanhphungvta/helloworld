@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("This is 2nd line.");
 
 		System.out.println("Test.");
-
+		System.out.println("Test 2.");
 		System.out.println("Added from remote");
 
 	}
